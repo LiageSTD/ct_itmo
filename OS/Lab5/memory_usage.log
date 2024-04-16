@@ -1,0 +1,266 @@
+2023-12-19 18:44:57
+Memory Info:
+Mem:           1,9Gi       1,3Gi        53Mi        26Mi       554Mi       424Mi
+Swap:          2,3Gi        22Mi       2,3Gi
+Process Info:
+root        3181  103 14.2 293904 285696 pts/0   R    18:44   0:04 /bin/bash ./mem.sh
+Process 2 Info: root        3182  105 12.4 257208 249344 pts/0   R    18:44   0:04 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R 100,0   0,0   0:03.19 kswapd0
+   3198 root      20   0   40352  24056  13184 R 100,0   1,2   0:02.71 python3
+   3181 root      20   0  311064 302592   3328 R 100,0  15,1   0:04.69 mem.sh
+   3182 root      20   0  269880 261632   3328 R 100,0  13,1   0:04.68 mem2.sh
+   3280 _apt      20   0    2744    256    256 R  31,6   0,0   0:00.06 apt-con+
+
+2023-12-19 18:45:00
+Memory Info:
+Mem:           1,9Gi       1,5Gi        76Mi        20Mi       364Mi       257Mi
+Swap:          2,3Gi        41Mi       2,3Gi
+Process Info:
+root        3181 99.1 18.4 383928 369024 pts/0   R    18:44   0:06 /bin/bash ./mem.sh
+Process 2 Info: root        3182  101 16.5 344196 330880 pts/0   R    18:44   0:07 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R 100,0   0,0   0:05.75 kswapd0
+   3181 root      20   0  400560 385536   3328 R 100,0  19,2   0:07.31 mem.sh
+   3182 root      20   0  353436 340096   3328 R 100,0  17,0   0:07.33 mem2.sh
+   3466 _apt      20   0    2888    896    768 R  82,4   0,0   0:00.14 apt-key
+   1631 root      20   0 3976648 202968  84888 D  64,7  10,1   0:23.45 gnome-s+
+
+2023-12-19 18:45:02
+Memory Info:
+Mem:           1,9Gi       1,6Gi        89Mi        18Mi       257Mi       161Mi
+Swap:          2,3Gi        55Mi       2,2Gi
+Process Info:
+root        3181  104 21.4 449664 429184 pts/0   R    18:44   0:09 /bin/bash ./mem.sh
+Process 2 Info: root        3182  105 19.1 401088 383104 pts/0   R    18:44   0:09 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R 100,0   0,0   0:08.16 kswapd0
+   3181 root      20   0  459960 439168   3328 R 100,0  21,9   0:09.68 mem.sh
+   3182 root      20   0  409932 391808   3328 R  94,1  19,6   0:09.72 mem2.sh
+     83 root      20   0       0      0      0 S  29,4   0,0   0:01.75 ksoftir+
+   1205 root      20   0  424632  88664  65628 S  11,8   4,4   0:12.68 package+
+
+2023-12-19 18:45:05
+Memory Info:
+Mem:           1,9Gi       1,7Gi        66Mi        17Mi       156Mi        62Mi
+Swap:          2,3Gi        94Mi       2,2Gi
+Process Info:
+root        3181  103 25.3 547344 507136 pts/0   R    18:44   0:12 /bin/bash ./mem.sh
+Process 2 Info: root        3182 97.1 21.9 476328 440192 pts/0   R    18:44   0:12 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R  93,8   0,0   0:11.40 kswapd0
+   3181 root      20   0  555132 512000   3328 R  87,5  25,6   0:12.88 mem.sh
+   3678 root      20   0   10104   2028   1536 D  81,2   0,1   0:00.19 cntrl.sh
+   3182 root      20   0  479232 441344   3328 R  75,0  22,0   0:12.89 mem2.sh
+   2169 root      20   0  491216  28136  16708 D  68,8   1,4   0:03.64 gnome-t+
+
+2023-12-19 18:45:09
+Memory Info:
+Mem:           1,9Gi       1,7Gi        70Mi        16Mi       144Mi        60Mi
+Swap:          2,3Gi       201Mi       2,1Gi
+Process Info:
+root        3181 96.2 26.7 614664 536064 pts/0   R    18:44   0:16 /bin/bash ./mem.sh
+Process 2 Info: root        3182 97.8 23.3 534936 467968 pts/0   R    18:44   0:16 /bin/bash ./mem2.sh
+Top Processes:
+   3182 root      20   0  547344 473984   3072 R 100,0  23,7   0:17.69 mem2.sh
+    108 root      20   0       0      0      0 R  93,8   0,0   0:16.55 kswapd0
+   3181 root      20   0  624564 538112   3072 R  93,8  26,9   0:17.53 mem.sh
+   1631 root      20   0 3976664 125144  33048 S  81,2   6,2   0:27.26 gnome-s+
+    522 root      20   0 1615596  22352   9856 S  62,5   1,1   0:27.75 snapd
+
+2023-12-19 18:45:13
+Memory Info:
+Mem:           1,9Gi       1,7Gi        69Mi        16Mi       110Mi        43Mi
+Swap:          2,3Gi       330Mi       2,0Gi
+Process Info:
+root        3181 97.9 28.2 683568 565248 pts/0   R    18:44   0:20 /bin/bash ./mem.sh
+Process 2 Info: root        3182 97.3 25.0 607536 501632 pts/0   D    18:44   0:21 /bin/bash ./mem2.sh
+Top Processes:
+    522 root      20   0 1754864  23120  10752 S 237,5   1,2   0:31.42 snapd
+    108 root      20   0       0      0      0 R 100,0   0,0   0:20.87 kswapd0
+   3181 root      20   0  694656 567168   3072 R 100,0  28,3   0:21.48 mem.sh
+   2169 root      20   0  491216  22760  11844 R  87,5   1,1   0:05.50 gnome-t+
+    118 root      20   0       0      0      0 I  62,5   0,0   0:05.89 kworker+
+
+2023-12-19 18:45:18
+Memory Info:
+Mem:           1,9Gi       1,7Gi        70Mi        16Mi       113Mi        46Mi
+Swap:          2,3Gi       430Mi       1,9Gi
+Process Info:
+root        3181 94.1 28.5 728580 573056 pts/0   R    18:44   0:23 /bin/bash ./mem.sh
+Process 2 Info: root        3182 94.8 25.3 639744 508800 pts/0   R    18:44   0:23 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R 100,0   0,0   0:23.89 kswapd0
+   3181 root      20   0  732804 570624   3072 R 100,0  28,5   0:24.32 mem.sh
+   3182 root      20   0  643308 507264   3072 R 100,0  25,3   0:24.35 mem2.sh
+    522 root      20   0 1689584  24272  11136 S  50,0   1,2   0:36.12 snapd
+   1971 root      20   0  848876  54504   2840 S  37,5   2,7   0:09.56 snap-st+
+
+2023-12-19 18:45:21
+Memory Info:
+Mem:           1,9Gi       1,7Gi        69Mi        16Mi       123Mi        49Mi
+Swap:          2,3Gi       508Mi       1,8Gi
+Process Info:
+root        3181 96.3 28.7 766860 576896 pts/0   R    18:44   0:26 /bin/bash ./mem.sh
+Process 2 Info: root        3182 93.7 25.5 676440 512384 pts/0   R    18:44   0:27 /bin/bash ./mem2.sh
+Top Processes:
+   3181 root      20   0  773196 577920   3072 R 100,0  28,8   0:27.48 mem.sh
+    108 root      20   0       0      0      0 R 100,0   0,0   0:27.08 kswapd0
+   3182 root      20   0  676572 510976   3072 R 100,0  25,5   0:27.43 mem2.sh
+   3749 root      20   0    5756    256    256 R  53,3   0,0   0:00.08 dpkg
+   1205 root      20   0  373064  29072   7572 S  26,7   1,5   0:13.49 package+
+
+2023-12-19 18:45:24
+Memory Info:
+Mem:           1,9Gi       1,7Gi        70Mi        15Mi       132Mi        55Mi
+Swap:          2,3Gi       630Mi       1,7Gi
+Process Info:
+root        3181 97.8 28.6 834048 574976 pts/0   R    18:44   0:31 /bin/bash ./mem.sh
+Process 2 Info: root        3182 95.4 25.7 741516 516224 pts/0   R    18:44   0:31 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R 100,0   0,0   0:32.23 kswapd0
+   1205 root      20   0  424632  42000   6804 S 206,2   2,1   0:17.38 package+
+   3181 root      20   0  844344 573056   3072 R 100,0  28,6   0:32.07 mem.sh
+   3182 root      20   0  747588 514048   3072 R 100,0  25,7   0:32.13 mem2.sh
+   3765 root      20   0   13212   4096   3328 R 100,0   0,2   0:00.26 top
+
+2023-12-19 18:45:30
+Memory Info:
+Mem:           1,9Gi       1,7Gi        63Mi        15Mi       134Mi        49Mi
+Swap:          2,3Gi       794Mi       1,5Gi
+Process Info:
+root        3181 92.1 29.5 904008 592256 pts/0   R    18:44   0:35 /bin/bash ./mem.sh
+Process 2 Info: root        3182 92.6 26.2 794844 525056 pts/0   R    18:44   0:35 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R  96,7   0,0   0:36.87 kswapd0
+   1205 root      20   0  424632  51856   6548 S  90,0   2,6   0:21.40 package+
+   1631 root      20   0 3976648  73176  21272 S  60,0   3,7   0:29.86 gnome-s+
+   2046 root      20   0 3002540  31900  18436 R  53,3   1,6   0:04.35 gjs
+   3181 root      20   0  927108 597248   3072 R  50,0  29,8   0:36.19 mem.sh
+
+2023-12-19 18:45:34
+Memory Info:
+Mem:           1,9Gi       1,7Gi        72Mi        15Mi       123Mi        53Mi
+Swap:          2,3Gi       932Mi       1,4Gi
+Process Info:
+root        3181 91.4 30.1 975816 603776 pts/0   R    18:44   0:38 /bin/bash ./mem.sh
+Process 2 Info: root        3182 92.8 25.5 845796 512896 pts/0   R    18:44   0:38 /bin/bash ./mem2.sh
+Top Processes:
+   3181 root      20   0  982152 605312   3072 R 100,0  30,2   0:39.26 mem.sh
+    108 root      20   0       0      0      0 R  94,1   0,0   0:40.20 kswapd0
+   1205 root      20   0  424632  63760   6548 S  94,1   3,2   0:24.04 package+
+   3182 root      20   0  846720 513152   3072 R  94,1  25,6   0:39.20 mem2.sh
+     18 root      20   0       0      0      0 I  11,8   0,0   0:03.47 kworker+
+
+2023-12-19 18:45:38
+Memory Info:
+Mem:           1,9Gi       1,7Gi        68Mi        14Mi       108Mi        42Mi
+Swap:          2,3Gi       1,0Gi       1,3Gi
+Process Info:
+root        3181 93.2 31.0 1035480 622976 pts/0  D    18:44   0:41 /bin/bash ./mem.sh
+Process 2 Info: root        3182 92.2 25.9 893976 519424 pts/0   R    18:44   0:42 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R 100,0   0,0   0:44.52 kswapd0
+   3182 root      20   0  902424 521088   3072 R 100,0  26,0   0:43.27 mem2.sh
+   3181 root      20   0 1052112 621184   3072 R 100,0  31,0   0:43.27 mem.sh
+   1205 root      20   0  424632  69776   5908 S 106,2   3,5   0:27.38 package+
+   3821 root      20   0   13212   4096   3328 R  68,8   0,2   0:00.17 top
+
+2023-12-19 18:45:42
+Memory Info:
+Mem:           1,9Gi       1,8Gi        65Mi        14Mi        96Mi        33Mi
+Swap:          2,3Gi       1,1Gi       1,2Gi
+Process Info:
+root        3181 92.0 31.2 1098576 627072 pts/0  D    18:44   0:46 /bin/bash ./mem.sh
+Process 2 Info: root        3182 92.0 26.6 958392 534016 pts/0   R    18:44   0:47 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R 100,0   0,0   0:49.97 kswapd0
+   3182 root      20   0  964200 538240   3072 R  93,8  26,9   0:48.48 mem2.sh
+   1205 root      20   0  424632  79248   5524 S  87,5   4,0   0:31.89 package+
+   3181 root      20   0 1112832 620800   3072 R  81,2  31,0   0:48.39 mem.sh
+   1971 root      20   0  848876  31336   2072 R  56,2   1,6   0:11.59 snap-st+
+
+2023-12-19 18:45:48
+Memory Info:
+Mem:           1,9Gi       1,7Gi        65Mi        14Mi       103Mi        36Mi
+Swap:          2,3Gi       1,2Gi       1,1Gi
+Process Info:
+root        3181 92.2 30.9 1155336 620160 pts/0  R    18:44   0:51 /bin/bash ./mem.sh
+Process 2 Info: root        3182 92.5 27.0 1001028 542080 pts/0  R    18:44   0:51 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R 100,0   0,0   0:54.16 kswapd0
+   1205 root      20   0  424632  79760   5524 R 140,9   4,0   0:35.45 package+
+   3181 root      20   0 1168932 628608   3072 R 100,0  31,4   0:52.36 mem.sh
+   3182 root      20   0 1010136 546432   3072 R 100,0  27,3   0:52.39 mem2.sh
+   3853 root      20   0   13212   4096   3328 R  40,9   0,2   0:00.18 top
+
+2023-12-19 18:45:53
+Memory Info:
+Mem:           1,9Gi       1,7Gi        65Mi        14Mi       118Mi        44Mi
+Swap:          2,3Gi       1,3Gi       992Mi
+Process Info:
+root        3181 93.2 32.9 1238232 659328 pts/0  R    18:44   0:55 /bin/bash ./mem.sh
+Process 2 Info: root        3182 92.8 28.4 1070196 569984 pts/0  R    18:44   0:56 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R 100,0   0,0   0:58.97 kswapd0
+    522 root      20   0 1689584  18000   6912 S 100,0   0,9   0:40.97 snapd
+   3182 root      20   0 1072836 568960   3072 R 100,0  28,4   0:57.12 mem2.sh
+   3181 root      20   0 1247604 658176   3072 R  93,8  32,8   0:57.08 mem.sh
+   3871 root      20   0    9496   2432   2304 S  50,0   0,1   0:00.32 awk
+
+2023-12-19 18:45:57
+Memory Info:
+Mem:           1,9Gi       1,7Gi        66Mi        14Mi       118Mi        45Mi
+Swap:          2,3Gi       1,4Gi       913Mi
+Process Info:
+root        3181 92.1 33.1 1279416 665088 pts/0  R    18:44   0:59 /bin/bash ./mem.sh
+Process 2 Info: root        3182 93.1 28.9 1114284 580736 pts/0  R    18:44   1:00 /bin/bash ./mem2.sh
+Top Processes:
+   3181 root      20   0 1300008 674560   3072 R 100,0  33,7   1:00.94 mem.sh
+   3182 root      20   0 1128408 590592   3072 R 100,0  29,5   1:00.96 mem2.sh
+    108 root      20   0       0      0      0 R 100,0   0,0   1:02.89 kswapd0
+      1 root      20   0  166668   5448   2888 S   0,0   0,3   0:08.07 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.12 kthreadd
+
+2023-12-19 18:46:01
+Memory Info:
+Mem:           1,9Gi       1,7Gi        65Mi        14Mi       101Mi        36Mi
+Swap:          2,3Gi       1,5Gi       781Mi
+Process Info:
+root        3181 93.4 33.9 1366140 680960 pts/0  R    18:44   1:03 /bin/bash ./mem.sh
+Process 2 Info: root        3182 93.7 30.0 1194144 602112 pts/0  R    18:44   1:04 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R  78,8   0,0   1:07.19 kswapd0
+   3181 root      20   0 1386864 690688   3072 R  75,8  34,5   1:05.19 mem.sh
+   3182 root      20   0 1200084 600448   3072 R  75,8  30,0   1:05.22 mem2.sh
+   3902 root      20   0   13212   4096   3328 R   6,1   0,2   0:00.30 top
+      1 root      20   0  166668   5320   2888 S   0,0   0,3   0:08.07 systemd
+
+2023-12-19 18:46:05
+Memory Info:
+Mem:           1,9Gi       1,8Gi        63Mi        14Mi        79Mi        23Mi
+Swap:          2,3Gi       1,7Gi       621Mi
+Process Info:
+root        3181 93.7 35.4 1472004 710400 pts/0  R    18:44   1:08 /bin/bash ./mem.sh
+Process 2 Info: root        3182 93.3 30.9 1282188 621056 pts/0  R    18:44   1:09 /bin/bash ./mem2.sh
+Top Processes:
+    108 root      20   0       0      0      0 R 100,0   0,0   1:11.47 kswapd0
+   3181 root      20   0 1482432 709632   2816 R 100,0  35,4   1:09.38 mem.sh
+   3182 root      20   0 1289052 619392   2816 R 100,0  30,9   1:09.39 mem2.sh
+      1 root      20   0  166668   5064   2632 S   0,0   0,3   0:08.07 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.12 kthreadd
+
+2023-12-19 18:46:10
+Memory Info:
+Mem:           1,9Gi       1,8Gi        61Mi        12Mi        68Mi        16Mi
+Swap:          2,3Gi       1,8Gi       462Mi
+Process Info:
+root        3181 94.6 35.9 1559916 719744 pts/0  R    18:44   1:12 /bin/bash ./mem.sh
+Process 2 Info: root        3182 93.8 31.1 1359012 623232 pts/0  R    18:44   1:13 /bin/bash ./mem2.sh
+Top Processes:
+   3182 root      20   0 1369176 620160   2688 R 100,0  30,9   1:14.13 mem2.sh
+    108 root      20   0       0      0      0 R  93,8   0,0   1:16.38 kswapd0
+   3181 root      20   0 1577340 718080   2688 R  93,8  35,8   1:14.11 mem.sh
+   1631 root      20   0 3976648  59992  20120 S  31,2   3,0   0:36.21 gnome-s+
+    522 root      20   0 1689584  14032   2816 S   6,2   0,7   0:43.94 snapd
+
