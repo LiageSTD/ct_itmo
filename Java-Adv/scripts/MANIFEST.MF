@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Liage
+Main-Class: info.kgeorgiy.ja.ushenko.implementor.Implementor
+Class-Path: ../../java-advanced-2024/artifacts/info.kgeorgiy.java.advanced.implementor.jar
